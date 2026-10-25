@@ -22,9 +22,9 @@ end
 PlayExecuteSound()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🍌KELA HUB🍌",
-   LoadingTitle = "🍌KELA HUB 🍌",
-   LoadingSubtitle = "🍌 KELA HUB IS BEST🍌",
+   Name = "🚩WAFADAR HUB🚩",
+   LoadingTitle = "🏴WAFADAR HUB🏴",
+   LoadingSubtitle = "⚡WD HUB IS BEST⚡",
    ConfigurationSaving = { Enabled = true, FolderName = "DemonkingHub", FileName = "Main" },
    KeySystem = false
 })
@@ -84,8 +84,8 @@ Tab4:CreateButton({Name = "AYAN OUTFIT MANAGER", Callback = function() PlayClick
 Tab4:CreateButton({Name = "TRIO SPAMMER", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/EVERYONE-SCRIPT/refs/heads/main/TRIO%20SPAM%20.txt"))() end})
 Tab4:CreateButton({Name = "YOUTUBE MUSIC PLAYER", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Youtube-Music-Player-Without-Key-231639"))() end})
 Tab4:CreateButton({Name = "GAZE EMOTE", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Gaze-emote-74592"))() end})
-Tab4:CreateButton({Name = "ZAYN CHAT", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://pastebin.com/raw/RXycpNk5"))() end})
-Tab4:CreateButton({Name = "GLODON CHAT", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://pastebin.com/raw/P4krXarc"))() end})
+Tab4:CreateButton({Name = "ZAYN CHAT-MOBILE", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Zayn-Chat-223768"))() end})
+Tab4:CreateButton({Name = "GLODON CHAT-PC", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Glodon-hub-(Global-chat)-230809"))() end})
 Tab4:CreateButton({Name = "GAGANN X M0NK SPAM", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://pastebin.com/raw/jTfgTNGD"))() end})
 Tab4:CreateButton({Name = "ZETA X M0NK SPAM", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://pastebin.com/raw/sHDFS7zQ"))() end})
 Tab4:CreateButton({Name = "CHIFUYU X M0NK SPAM", Callback = function() PlayClickSound() loadstring(game:HttpGet("https://pastebin.com/raw/L59teFv9"))() end})
@@ -121,4 +121,4 @@ Tab6:CreateButton({Name = "PHONK 6", Callback = function() PlayClickSound() Play
 Tab6:CreateButton({Name = "PHONK 7", Callback = function() PlayClickSound() PlayPhonk("119560785746143") end})
 Tab6:CreateButton({Name = "STOP-ALL", Callback = function() PlayClickSound() if CurrentPhonk then CurrentPhonk:Stop() end end})
 
-Rayfield:Notify({Title = "KELA HUB🍌🌚", Content = "KELA HUB LORD🍌🌚", Duration = 5, Image = 4483362458})
+Rayfield:Notify({Title = "✨WAFADAR HUB✨", Content = "👑WD HUB LORD👑", Duration = 5, Image = 4483362458})
