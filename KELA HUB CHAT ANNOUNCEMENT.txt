@@ -3,9 +3,9 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local chatDelay = 1.25
 local messages = {
-    "『💥』👑 ZERO MERCY HUB LOADED 👑『💥』",
-    "『😎』⚡ CHALO BETA RONA STRT KARDO AB ⚡『😎』",
-    "『🥰』😍  FATHER IS HERE 😍『🥰』",
+    "『💥』👑 ZERO HUB LOADED 👑『💥』",
+    "『😎』⚡ CHALO BETA RONA START KARDO AB KYUKI ZERO HUB LOAD HOGYA ⚡『😎』",
+    "『🥰』😍 THIS SCRIPT ONLY FOR LIFE TOGETHER MADE BY AYANUU 😍『🥰』",
     " 『🔝』 ZERO MERCY ON TOP BRO 『🔝』『✨』 OWNER:AYANUU😎『✨』", -- Added right below -pd
     "『❤️』🥰 AYANXBUNNYXTALHA 🥰『❤️』"
 }
