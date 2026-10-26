@@ -3,11 +3,11 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local chatDelay = 1.25
 local messages = {
-    "『💥』👑 WAFADAR HUB LOADED 👑『💥』",
+    "『💥』👑 ZERO MERCY HUB LOADED 👑『💥』",
     "『😎』⚡ CHALO BETA RONA STRT KARDO AB ⚡『😎』",
-    "『🥰』😍 4 FATHER IS HERE 😍『🥰』",
-    " 『🔝』 WAFADAR ON TOP BRO 『🔝』『✨』 OWNER:AYAN😎『✨』", -- Added right below -pd
-    "『❤️』🥰 AYANXERRORXBUNNYXTALHA 🥰『❤️』"
+    "『🥰』😍  FATHER IS HERE 😍『🥰』",
+    " 『🔝』 ZERO MERCY ON TOP BRO 『🔝』『✨』 OWNER:AYANUU😎『✨』", -- Added right below -pd
+    "『❤️』🥰 AYANXBUNNYXTALHA 🥰『❤️』"
 }
 
 -- Function to safely send chat messages across different Roblox chat systems
