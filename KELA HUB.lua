@@ -22,9 +22,9 @@ end
 PlayExecuteSound()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🚩WAFADAR HUB🚩",
-   LoadingTitle = "🏴WAFADAR HUB🏴",
-   LoadingSubtitle = "⚡WD HUB IS BEST⚡",
+   Name = "🚩ZERO HUB🚩",
+   LoadingTitle = "🏴ZERO HUB🏴",
+   LoadingSubtitle = "⚡ZERO HUB IS BEST⚡",
    ConfigurationSaving = { Enabled = true, FolderName = "DemonkingHub", FileName = "Main" },
    KeySystem = false
 })
@@ -48,9 +48,9 @@ end
 
 -- TAB 1: INFO 👑
 local Tab1 = Window:CreateTab("INFO 👑", 4483362458)
-Tab1:CreateLabel("MADE BY AYAN 😎")
-Tab1:CreateLabel("🍌🌚 KELA HUB IS BERY BEST HUB 🌚🍌")
-Tab1:CreateLabel("ERROR PAPA SA AGAR KOI PANGA LEGA PHIR OSKI MA KI () MA ERROR DELDE GYA🌚🍌")
+Tab1:CreateLabel("MADE BY AYANUU 😎")
+Tab1:CreateLabel("⚡ZERO IS BEST HUB⚡")
+Tab1:CreateLabel("NEW FEATURE ADD OUTFIT STEALER AND OUTFIT MANAGER AND NEW SCRIPT 💥")
 Tab1:CreateLabel("AYAN PAPA AGYEE👺KON APNI MAMA PESH KAR RAHA HAI 🌚🍌")
 Tab1:CreateLabel("BUNNY MOTU PAPA SA KOI PANGA NA LENA WARNA MOTU DORA DORA KE MAREGA🔥")
 Tab1:CreateLabel("TALHA PAPA IS HERE🔓🌚 TALHA BE LIKE KON HN JO APNI BAJI DE RA👺")
@@ -121,4 +121,4 @@ Tab6:CreateButton({Name = "PHONK 6", Callback = function() PlayClickSound() Play
 Tab6:CreateButton({Name = "PHONK 7", Callback = function() PlayClickSound() PlayPhonk("119560785746143") end})
 Tab6:CreateButton({Name = "STOP-ALL", Callback = function() PlayClickSound() if CurrentPhonk then CurrentPhonk:Stop() end end})
 
-Rayfield:Notify({Title = "✨WAFADAR HUB✨", Content = "👑WD HUB LORD👑", Duration = 5, Image = 4483362458})
+Rayfield:Notify({Title = "✨ZERO HUB✨", Content = "👑ZERO HUB LORD👑", Duration = 5, Image = 4483362458})
