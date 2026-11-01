@@ -22,9 +22,9 @@ end
 PlayExecuteSound()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🚩ZERO HUB🚩",
-   LoadingTitle = "🏴ZERO HUB🏴",
-   LoadingSubtitle = "⚡ZERO HUB IS BEST⚡",
+   Name = "🚩OG HUB🚩",
+   LoadingTitle = "🏴OG HUB🏴",
+   LoadingSubtitle = "⚡OG HUB IS BEST⚡",
    ConfigurationSaving = { Enabled = true, FolderName = "DemonkingHub", FileName = "Main" },
    KeySystem = false
 })
@@ -141,4 +141,4 @@ Tab7:CreateButton({Name = "PHONK 6", Callback = function() PlayClickSound() Play
 Tab7:CreateButton({Name = "PHONK 7", Callback = function() PlayClickSound() PlayPhonk("119560785746143") end})
 Tab7:CreateButton({Name = "STOP-ALL", Callback = function() PlayClickSound() if CurrentPhonk then CurrentPhonk:Stop() end end})
 
-Rayfield:Notify({Title = "✨ZERO HUB✨", Content = "👑ZERO HUB LORD👑", Duration = 5, Image = 4483362458})
+Rayfield:Notify({Title = "✨OG HUB✨", Content = "👑OG HUB LORD👑", Duration = 5, Image = 4483362458})
