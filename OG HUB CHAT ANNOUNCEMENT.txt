@@ -43,7 +43,7 @@ task.spawn(function()
     
     -- Execute the external Patchma Hub script after the final delay
     local success, err = pcall(function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/KELA-HUB/refs/heads/main/OG%20HUB.txt"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/ayanjaveed503-a11y/KELA-HUB/refs/heads/main/KELA%20HUB.lua"))()
     end)
     
     if not success then
